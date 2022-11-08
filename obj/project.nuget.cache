@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "+NsUogT5lBCWwFaVzjkQ/J9XB6n2++9egG4+OCSARC6VN/u7KrulJyK2g7dCIi5REdXyt141ZNmqrdkkdrX44w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tezz\\Documents\\797p\\app1\\Project2-BuildAapi\\Project2-BuildAapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tezz\\.nuget\\packages\\attributerouting.core\\3.5.6\\attributerouting.core.3.5.6.nupkg.sha512",
+    "C:\\Users\\Tezz\\.nuget\\packages\\microsoft.aspnet.mvc.scaffoldertemplates.attributerouting.csharp\\5.1.0\\microsoft.aspnet.mvc.scaffoldertemplates.attributerouting.csharp.5.1.0.nupkg.sha512",
+    "C:\\Users\\Tezz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tezz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tezz\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tezz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tezz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tezz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AttributeRouting.Core 3.5.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AttributeRouting.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
